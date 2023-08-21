@@ -573,8 +573,6 @@ if __name__ == "__main__":
 
     while game.get_game_state() == 'UNFINISHED':
         print(f"Current Player: {game.get_active_player()}")
-        print("Game Board:")
-        # Print the game board here
     
         from_square = input("Enter the source square: ")
         to_square = input("Enter the destination square: ")
