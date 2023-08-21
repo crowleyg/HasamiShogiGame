@@ -1,5 +1,3 @@
-# Author: Garrett Crowley
-# Date: 11/29/2021
 # Description: class HasamiShogiGame allows user to play a two player game of Hasami Shogi (Variant 1).
 # Players take turns moving pieces on a game board. On a turn, a player can move a piece any number of
 # cells horizontally or vertically. A piece can move no further than adjacent to a friendly or enemy piece.
